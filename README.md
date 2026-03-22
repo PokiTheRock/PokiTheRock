@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PokiTheRock<br>👀 I’m interested in discord bot and game development<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me: Discord: PokiPoscar<br>⚡ Fun fact: I like wolfs
+👋 Hi, I’m @PokiTheRock<br>👀 I’m interested in game development<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me: Discord: PokiPoscar<br>⚡ Fun fact: I like wolfs
 
 
 ## 🌐 Socials:
